@@ -3,7 +3,7 @@ Prompts user for a price and number of guests to generate a receipt
 
 Prix Fixe Menu: offers only one four course meal each evening. The menu choices include two three course meals one worth 39.95 and another worth 54.95 
 
-The program is processed as follows: 
+This C++ program is processed as follows: 
 1. prompt the user for the price of the prix fixe meal ordered
   read user input
   leave two blank lines 
@@ -18,3 +18,5 @@ The program is processed as follows:
 9. Sip one blank line then, display the customer receipt 
 
 *Note: with the exception of the percentage tip, format the real numeric output to two decimal places 
+
+The program was run and compiled on Codeblocks. 
