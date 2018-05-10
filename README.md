@@ -7,7 +7,7 @@ This C++ program is processed as follows:
 1. prompt the user for the price of the prix fixe meal ordered
   read user input
   leave two blank lines 
-2. propmt the user for the number of guests in the party 
+2. prompt the user for the number of guests in the party 
   read user input
 3. calculate the subtotal (meals ordered * meal price)
 4. calculate the tax based on the subtotal
